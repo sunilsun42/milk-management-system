@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: userservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: z003mt8e
+Implementation-Vendor-Id: com.milk.management.user
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/milk-management-user
+Created-By: Maven Integration for Eclipse
+
